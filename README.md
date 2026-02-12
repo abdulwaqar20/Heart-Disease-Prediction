@@ -77,7 +77,6 @@ The model can assist in early risk assessment but should not replace
 professional medical diagnosis.
 
 ---
----
 
 ## Author
 Abdul Waqar
